@@ -1,0 +1,39 @@
+[
+  {
+    "supplier_sku": "TECH-APL-IP15",
+    "name": "Apple iPhone 15",
+    "category": "Electronics > Smartphones",
+    "brand": "Apple",
+    "attributes": {
+      "color": "Black",
+      "storage": "128GB",
+      "screen_size": "6.1 inch"
+    },
+    "variants": [
+      {"sku": "IP15-BLK-128", "color": "Black", "price": 799.99, "stock": 50},
+      {"sku": "IP15-BLU-256", "color": "Blue", "price": 899.99, "stock": 30}
+    ]
+  },
+  {
+    "supplier_sku": "APP-NIKE-TSHIRT",
+    "name": "Nike Dri-FIT Training Tee",
+    "category": "Apparel > Men > Tops",
+    "brand": "Nike",
+    "attributes": {
+      "material": "Polyester",
+      "gender": "Men"
+    },
+    "variants": [
+      {"sku": "NK-TEE-BLK-M", "color": "Black", "size": "M", "price": 35.00, "stock": 100},
+      {"sku": "NK-TEE-WHT-L", "color": "White", "size": "L", "price": 35.00, "stock": 80}
+    ]
+  },
+  {
+    "supplier_sku": "INVALID-NO-BRAND",
+    "name": "Generic Wireless Earbuds",
+    "category": "Electronics > Audio",
+    "brand": "",
+    "attributes": {},
+    "variants": []
+  }
+]
